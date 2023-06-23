@@ -8,7 +8,7 @@ This Capstone project was done at the Completion of the Coursera Google Data Ana
 - *Prepare* data by selecting and managing the appropriate dataset for the business task.
 - *Process* the data by cleaning ensuring data integrity.
 - *Analyze* the data through exploration, transformation, and chart visualization to make relevant insights.
-- *Share* my conclusions and interpreted the results with the stakeholders.
+- *Share* the conclusions and interpreted the results with the stakeholders.
 - *Act* on the data by giving some recommendations.
 
 ### Business Questions:
