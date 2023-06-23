@@ -39,5 +39,5 @@ After going through the 7 Analysis steps and despite the limitations of the Data
 ### LINKS
 
 - [Blog Post](https://sites.google.com/view/scott-esguerra/bellabeat-fitness-analysis?authuser=0)
-- [R Notebook]()
+- [R Notebook](https://www.kaggle.com/code/shukuratbello/google-data-analytics-bellabeat-product-analysis)
 - [Dataset Used](https://www.kaggle.com/datasets/arashnic/fitbit)
